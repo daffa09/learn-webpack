@@ -1,0 +1,9 @@
+// urutan nya pengaruh
+$bg: rgb(191, 235, 250);
+$primary: lightblue;
+$danger: salmon;
+@import 'bootstrap/scss/bootstrap.scss';
+
+body {
+  background-color: $bg;
+}
